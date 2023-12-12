@@ -2,7 +2,8 @@ ShopzillaFashion Ecommerce Platform.
 
 Welcome to ShopzillaFashion, a robust Ecommerce Platform built on a powerful tech stack. This platform provides a diverse array of Category Products, coupled with a streamlined Django Admin Dashboard for efficient Category and Product management.
 
-Key Features
+Key Features:-
+
 Robust Ecommerce Platform: ShopzillaFashion offers a seamless and robust Ecommerce experience for users, providing a wide range of Category Products to cater to diverse customer needs.
 
 Django Admin Dashboard: The platform comes equipped with a streamlined Django Admin Dashboard, facilitating efficient management of categories and products. This not only enhances the user experience but also simplifies backend operations.
